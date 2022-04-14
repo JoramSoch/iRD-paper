@@ -36,6 +36,6 @@ The sub-folder "NBD_tools/" contains functions that are used by `analysis_MGT_iR
 
 ## Bonus: Graphical Abstract
 
-<img src="https://github.com/JoramSoch/iRD-paper/raw/master/Figure_GA.png" alt="Graphical Abstract" width=1000>
+<img src="https://raw.githubusercontent.com/JoramSoch/iRD-paper/main/Figure_GA.png" alt="Graphical Abstract" width=1000>
 
 This graphical abstract illustrates the core idea of the paper: Behavioral responses can either be predicted from the experimental design (stimulus-based response decoding, sbRD), directly decoded from the stimulus-related fMRI signals (direct response decoding, dRD) or indirectly decoded by first reconstructing the experimental design from the stimulus-related fMRI signals (indirect response decoding, iRD). Click <a href="https://github.com/JoramSoch/iRD-paper/blob/master/Figure_GA.pdf">here</a> for a PDF version.

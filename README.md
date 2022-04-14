@@ -16,5 +16,6 @@ This code was developed and run using the following software:
 - [MATLAB R2020a](https://de.mathworks.com/help/matlab/release-notes.html)
 - [MATLAB Statistics Toolbox](https://de.mathworks.com/help/matlab/release-notes.html)
 - [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/) (Revision 7771 as of 14/01/2020)
+- [ITEM Toolbox](https://github.com/JoramSoch/ITEM) (as on GitHub)
 - [The Decoding Toolbox](https://sites.google.com/site/tdtdecodingtoolbox/) (Version 3.999)
 - [Bayesian Prevalence](https://github.com/robince/bayesian-prevalence) package (MATLAB)

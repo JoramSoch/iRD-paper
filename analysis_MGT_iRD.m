@@ -5,8 +5,8 @@
 % signals via reconstruction of experimental conditions".
 % 
 % For more info, see:
-% - https://github.com/JoramSoch/ITEM/blob/master/README.md
-% - https://www.biorxiv.org/content/10.1101/2022.03.24.485588v1
+% - https://github.com/JoramSoch/iRD-paper/blob/main/README.md
+% - https://www.biorxiv.org/content/10.1101/2022.03.24.485588
 
 
 %%% Step 0: prepare data analysis %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
